@@ -16,3 +16,6 @@ This is a University Activities and Community Website that makes the students at
 - Manage Activities for admins
 - Receive Notifications
 - Add activity type for admins
+
+
+![screenshot_897](https://user-images.githubusercontent.com/64940728/113198380-84fa8300-926e-11eb-93d1-f36657096857.jpg)
