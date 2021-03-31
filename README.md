@@ -18,4 +18,5 @@ This is a University Activities and Community Website that makes the students at
 - Add activity type for admins
 
 
-![screenshot_897](https://user-images.githubusercontent.com/64940728/113198380-84fa8300-926e-11eb-93d1-f36657096857.jpg)
+![screenshot_898](https://user-images.githubusercontent.com/64940728/113198688-e4589300-926e-11eb-9db6-d9159028f314.jpg)
+
